@@ -1,0 +1,103 @@
+<html>
+
+<head>
+    <style>
+        .menuDivTop {
+            height: 82px;
+            background-color: rgb(35, 128, 12);
+        }
+        
+        .menuDivSecundario {
+            background-color: rgb(20, 255, 47);
+            height: 200px;
+            width: 100px;
+            float: right;
+        }
+        
+        .flutuarEsquerda {
+            float: left;
+        }
+    </style>
+</head>
+
+<body>
+    <header>
+        <div class="menuDivTop">
+            <figure>
+                <img src="C:\Users\Gabriel Teixeira\Downloads\Xbox(1).png" height="80" width="80" class="flutuarEsquerda">
+            </figure>
+            <nav>
+                <a href="#">XBox Brasil.</a> |
+                <a href="#">Loja Oficial</a> |
+                <a href="#">Contato</a>
+                <h1>A História Da Xbox</h1>
+            </nav>
+        </div>
+    </header>
+    <!-- Menu Secundário-->
+    <aside>
+        <div class="menuDivSecundario">
+            <a href="#">Xbox</a> <br>
+            <a href="#">Xbox360</a>
+            <a href="#">Xbox One, Xbox One X/S</a> <br>
+            <a href="#">Xbox Series X/S</a> <br>
+        </div>
+    </aside>
+
+    <!-- Conteudo da Pagina-->
+    <div style="background-color: rgb(124, 172, 13); height: 200px;">
+        Xbox é uma marca de consoles de jogos eletrônicos desenvolvida e patenteada pela Microsoft. O nome Xbox é incluído em uma série de consoles abrangendo a sexta, sétima, oitava e nona geração de videogames, bem como o serviço on-line Xbox Live, aplicativos,
+        serviços de streaming, Xbox Cloud Gaming e o Xbox Game Pass. A marca foi introduzida pela primeira vez em 15 de novembro de 2001, nos Estados Unidos, com o lançamento do console Xbox. O primeiro console da série, o Xbox, foi o primeiro console
+        oferecido por uma empresa norte-americana após o Atari Jaguar em 1996. Ele chegou a mais de 24 milhões de unidades vendidas em 10 de maio de 2006. Seu sucessor, o Xbox 360, foi lançado em 22 de novembro de 2005 e descontinuado em 20 de abril de
+        2016. O sucessor do Xbox 360, o Xbox One, foi anunciado em 21 de maio de 2013 e lançado em 22 de novembro do mesmo ano.
+        <br>
+        <img src="C:\Users\Gabriel Teixeira\Downloads\xobox logo 2.png" height="100" width="100">
+    </div>
+
+    <!--Rodapé-->
+    <footer>
+        <div style="background-color: rgb(0, 255, 136);">
+            <p>Xbox</p>
+            <p> O Xbox é um console de vídeo game produzido pela Microsoft. Foi lançado em 15 de novembro de 2001 na América do Norte, 22 de fevereiro de 2002 no Japão, e 14 de Março de 2002 na Austrália e Europa. Foi a primeira incursão da Microsoft no mercado
+                de vídeo games. Como parte da sexta-geração de jogos, o Xbox competiu com Sony PlayStation 2, Sega Dreamcast (que parou as vendas americanas antes que o Xbox fosse colocado à venda) e o Nintendo GameCube. O Xbox foi o primeiro console
+                oferecido por uma empresa norte-americana após o Atari Jaguar parar as vendas em 1996. O nome Xbox foi derivado a partir de uma contração da caixa "DirectX Box", uma referência a Microsoft. O serviço integrado Xbox Live foi lançado em
+                novembro de 2002 e permitiu que os jogadores jogassem jogos online com uma conexão de banda larga. Ele competiu pela primeira vez com o serviço online do Dreamcast, mas depois competiu principalmente com serviço online do PlayStation 2.
+                Embora esses dois são gratuitos, enquanto o Xbox Live exigida uma assinatura, bem como somente conexão de banda larga, que ainda não foi completamente adotado. Xbox Live foi um sucesso devido ao melhor servidor, e recursos como uma lista
+                de amigo e conquistas de títulos e etc.</p>
+            <img src="C:\Users\Gabriel Teixeira\Downloads\A.png">
+            <p>Xbox360</p>
+            <p>O Xbox 360 é o segundo console de videogame desenvolvido e produzido pela Microsoft e sendo o sucessor do Xbox. O Xbox 360 concorreu com Sony PlayStation 3 e Nintendo Wii, como parte da sétima geração de consoles de videogame. Em 30 de setembro
+                2012, 70 milhões de cópias do console foram vendidas em todo o mundo. O Xbox 360 foi apresentado oficialmente na MTV em 12 de maio de 2005, com o lançamento detalhado e informações dos jogos divulgados no final daquele mês, no Electronic
+                Entertainment Expo (E3). O console esgotou completamente após a liberação em todas as regiões, exceto no Japão. Uma de suas melhores características principais são o seu serviço integrado Xbox Live que permite aos jogadores competirem
+                online; fazer download de jogos arcade, demos de jogos, trailers, shows de TV, música e filmes, e capacidades multimédias Windows Media Center. O console apresentou problemas durante os primeiros anos de lançamento devido a uma falha de
+                arquitetura que causava superaquecimento e morte do equipamento. Esse efeito que atingiu boa parte dos produtos ficou popularmente conhecido como os 3 anéis da morte (RRoD, do inglês Red Rings of Death). Em sua apresentação na E3 2010,
+                a Microsoft anunciou um redesenhamento do Xbox 360, que seria lançado no mesmo dia. O console redesenhado é mais fino que o modelo anterior Xbox 360 e recursos integrados 802.11 b/g/n Wi-Fi, TOSLINK S/PDIF saída de áudio óptica, cinco
+                portas USB (em comparação com os três a partir de versões mais antigas) e uma porta AUX especial. Os modelos mais antigos do Xbox 360 já foram descontinuados. O primeiro novo console a ser lançado possui um disco rígido de 250 GB.</p>
+            <img src="C:\Users\Gabriel Teixeira\Downloads\B.png">
+            <P>Xbox One, Xbox One X/S</P>
+            <p>O Xbox One é o terceiro console de videogame desenvolvido e produzido pela Microsoft, sendo o sucessor do Xbox 360. O Xbox One competiu com PlayStation 4 e Nintendo Wii U, como parte da oitava geração de consoles de videogame. Foi lançado
+                em novembro de 2013. Ele teve duas revisões, Xbox One X e Xbox One S. Atualizações A última atualização do Xbox One e Xbox One X/S ocorreu no lançamento do jogo Resident Evil 4: Remake, sendo uma atualização no layout do Xbox One e Xbox
+                One X/S. Especificações Técnicas O Xbox One e Xbox One X/S tem 8GB de RAM, juntamente com um drive de Blu-ray, assim como a arquitetura nativa de 64 bits, um disco rígido integrado de 500GB, entrada e saída HDMI, 802.11n Wi-Fi, bem como
+                uma CPU 8-core e conectividade USB 3.0. O Xbox One tem três sistemas operacionais simultaneamente. Complementando Windows 8 e RT em PCs e tablets, haverá uma terceira versão diferente do sistema operacional da Microsoft que foi reduzido
+                especificamente para o novo console. O console foi anunciado em 21 de maio de 2013. Atualizações para os acordos de licenciamento foram publicadas em 6 de junho de 2013.</p>
+            <img src="C:\Users\Gabriel Teixeira\Downloads\C.png">
+            <p>Xbox Series X/S</p>
+            <p>Durante o The Game Awards 2019, em 12 de dezembro de 2019, a Microsoft anunciou oficialmente o nome e o design do sucessor do Xbox One, Xbox Series X.[16] Foi apresentado pela primeira vez durante a conferência de imprensa da Microsoft na
+                E3 2019, sob o codinome "Project Scarlett".[17] O console foi lançado em 10 de novembro de 2020.[18] A Microsoft afirmou que o Xbox Series X seria quatro vezes mais poderoso que o Xbox One X; apresenta a arquitetura de CPU Zen 2 da AMD
+                e a arquitetura gráfica RDNA, uma unidade de estado sólido projetada sob medida, GDDR6 SDRAM e suporte para ray tracing tempo real, renderização de até 120 quadros por segundo e resolução 8K.[19] A Microsoft também promoveu o "modo automático
+                de baixa latência" e a "entrada dinâmica de latência" para melhorar a capacidade de resposta.[19] O design do Xbox Series X possui um fator de forma semelhante a uma "torre", projetado para ficar na vertical ou na horizontal. O console
+                será fornecido com uma versão atualizada do controle do Xbox One, adicionando um D-pad circular côncavo semelhante ao Controle Elite e o botão "Compartilhar". O Xbox Series X permanecerá compatível com os controles e acessórios existentes
+                do Xbox One.[20][21] A forma do console foi projetada para ser discreta e simples. São aproximadamente 15 cm de largura e espessura e 46 cm de altura na vertical, o console também pode ser usado na horizontal. Seus recursos frontais apresentam
+                apenas o botão liga/desliga principal e o slot de mídia ótica. A parte superior do console tem um único cooler poderoso. Spencer disse que o Xbox Series X era tão silencioso quanto o Xbox One X.[22] O Xbox Series X também será fornecido
+                com um novo controle baseado no controle do Xbox One. Ele terá um design ergonômico um pouco mais compacto. Também será compatível com o Xbox One e computadores pessoais. Um novo caminho de entrada de latência dinâmica permite que os desenvolvedores
+                de jogos incorporem o atraso do controle em seus jogos e melhorem a capacidade de resposta.[23] Durante a E3, Halo Infinite foi anunciado como um título de lançamento para o console.[24][25][26] Durante o The Game Awards 2021, a Microsoft
+                também mostrou um tease de Senua's Saga: Hellblade II da subsidiária da Xbox Game Studios, Ninja Theory, como em desenvolvimento para o Xbox Series X.[27] A Microsoft afirmou que o Xbox Series X ofereceria suporte aos títulos existentes
+                do Xbox One, bem como aos títulos do Xbox e Xbox 360 compatíveis com o Xbox One; Para atingir esse objetivo, a Microsoft também afirmou que estava interrompendo qualquer adição adicional de novos títulos ao programa de retro compatibilidade,
+                a fim de focar na retro compatibilidade do novo console.[28][29] Phil Spencer afirmou que a Microsoft estava comprometida em continuar dando suporte à distribuição física de jogos em discos no Xbox Series X.</p>
+            <img src="C:\Users\Gabriel Teixeira\Downloads\D.png">
+        </div>
+    </footer>
+
+</body>
+
+</html>
